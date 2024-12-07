@@ -1,4 +1,4 @@
-# CSCI 1170: Intro to Web Design and Development, Fall 2023
+# CSCI 1170: Intro to Web Design and Development, Fall 2023 (Final Project)
 
 Assignment: A4
 Due date: 23:59, Sunday, Dec 3, 2023
