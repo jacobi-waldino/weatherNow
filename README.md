@@ -6,7 +6,6 @@ Due date: 23:59, Sunday, Dec 3, 2023
 ## Student Details
 
 - Name: Jake Waldner
-- Banner ID (B00#): B00936026
 - Email: jc264823@dal.ca
 
 ## JSON data chosen
